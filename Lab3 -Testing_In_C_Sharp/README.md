@@ -14,7 +14,6 @@
 2. [🛠 Technologies Used](#-technologies-used)
 3. [📜 License](#-license)
 4. [👤 Author](#-author)
-5. [🌟 Acknowledgments](#-acknowledgments)
 
 ---
 
