@@ -126,9 +126,3 @@ Maintaining high test coverage is crucial for the stability and reliability of t
 
 - **Sarah E. Smith**: Initial implementation and test coverage setup.
 - **Yuval Kogan**: Contributions to feature development and testing.
-
----
-
-## 📜 **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
